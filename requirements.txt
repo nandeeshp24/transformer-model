@@ -1,0 +1,8 @@
+datasets==1.12.1
+nltk==3.6.3
+numpy==1.21.2
+transformers @ git+https://github.com/huggingface/transformers@279ce5b705a0b8689f2a8e5d5258dbb5421c9e6c
+torch==1.9.1
+torchaudio==0.9.1
+torchvision==0.10.1
+rouge-score==0.0.4
