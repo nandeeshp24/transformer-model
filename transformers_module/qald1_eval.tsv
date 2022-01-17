@@ -1,0 +1,42 @@
+Question	Actual Tokens	Predicted Tokens
+What is the alma mater of the chancellor of Germany Angela Merkel?	Angela Merkel <tok> alma mater <tok> <var>	<var> <tok> chancellor <tok> Angela Merkel <dot> <var> <tok> alma mater <tok> <var>
+How large is the area of UK?	United Kingdom <tok> area total (m2) <tok> <var>	<var> <tok> area <tok> United Kingdom <dot> <var> <tok> area <tok> <var>
+Who is the author of the interpretation of dreams?	The Interpretation of Dreams <tok> author <tok> <var>	<var> <tok> author <tok> <var> <var> <dot> <var> <tok> interpretation <tok> <var>
+What is the birth name of Adele?	Adele <tok> birth name <tok> <var>	<var> <tok> birth name <tok> Adele <dot> <var> <tok> type <tok> person
+What are the top selling luxury vehicle brands in Germany?	<var> <tok> subject <tok> Car manufacturers of Germany <dot> <var> <tok> equity ($) <tok> <var> <dot> <var> <tok> net income ($) <tok> <var> <dot> <var> <tok> production <tok> <var> <dot> <var> <tok> revenue ($) <tok> <var>	<var> <tok> manufacturer <tok> Germany <dot> <var> <tok> type <tok> luxury vehicle
+How many awards has Bertrand Russell?	Bertrand Russell <tok> awards <tok> <var>	<var> <tok> awards <tok> Bertrand Russell
+Who is Dan Jurafsky?		Dan Jurafsky <tok> occupation <tok> <var>
+When will start the final match of the football world cup 2018?	2018 FIFA World Cup <tok> date <tok> <var>	<var> <tok> final match <tok> World Cup 2018 <dot> <var> <tok> start time <tok> <var>
+how much is the elevation of Düsseldorf Airport ?	Düsseldorf Airport <tok> elevation (μ) <tok> <var>	Dsseldorf Airport <tok> elevation <tok> <var>
+how much is the total population of  european union?	European Union <tok> population total <tok> <var>	<var> <tok> nationality <tok> European Union <dot> <var> <tok> population <tok> <var>
+when was the founding date of french fifth republic?	French Fifth Republic <tok> founding date <tok> <var>	French fifth republic <tok> founding date <tok> <var>
+Who are the founders of  BlaBlaCar?	BlaBlaCar <tok> founders <tok> <var>	BlaBlaCar <tok> founder <tok> <var>
+how many foreigners speak German?	German language <tok> speakers <tok> <var>	<var> <tok> language <tok> German
+Where is the birthplace of Goethe?	Johann Wolfgang von Goethe <tok> birth place <tok> <var>	<var> <tok> birthplace <tok> Goethe
+Where is the origin of Carolina reaper?	Carolina Reaper <tok> origin <tok> <var>	Carolina reaper <tok> origin <tok> <var>
+How much is the population of Mexico City ?	Mexico City <tok> population total <tok> <var>	Mexico City <tok> population <tok> <var>
+What is the nick name of Baghdad?	Baghdad <tok> nick <tok> <var>	Baghdad <tok> nick name <tok> <var>
+Who is the novelist of the work a song of ice and fire?	A Song of Ice and Fire <tok> author <tok> <var>	<var> <tok> work <tok> Song of Ice and Fire <dot> <var> <tok> author <tok> <var>
+What is the percentage of area water in Brazil?	Brazil <tok> percentage of area water <tok> <var>	<var> <tok> area <tok> Brazil <dot> <var> <tok> type <tok> area
+How much is the population of Iraq?	Iraq <tok> population total <tok> <var>	<var> <tok> population <tok> Iraq
+What is the population of Cairo?	Cairo <tok> population total <tok> <var>	<var> <tok> population <tok> Cairo
+How much is the population density rank of Germany?	Germany <tok> population density rank <tok> <var>	<var> <tok> population density rank <tok> Germany
+What is the relation between Resource Description Framework and Web Ontology Language?	Web Ontology Language <tok> has abstract <tok> <var>	Resource Description Framework <tok> relation <tok> <var> Web Ontology Language <tok> relation <tok> <var>
+How large is the total area of North Rhine-Westphalia?	North Rhine-Westphalia <tok> area total (m2) <tok> <var>	<var> <tok> region <tok> North Rhine-Westphalia <dot> <var> <tok> area <tok> <var>
+What is the original title of the interpretation of dreams?	The Interpretation of Dreams <tok> name <tok> <var>	<var> <tok> interpretation <tok> Dreams <dot> <var> <tok> original title <tok> <var>
+Who are the writers of the Wall album of Pink Floyd?	The Wall <tok> writer <tok> <var>	<var> <tok> album <tok> Pink Floyd <dot> <var> <tok> writers <tok> <var>
+When was the death  of  Shakespeare?	William Shakespeare <tok> death date <tok> <var>	<var> <tok> death place <tok> Shakespeare
+With how many countries Iran has borders?	Geography of Iran <tok> borders <tok> <var>	<var> <tok> borders <tok> Iran
+What is the smallest city by area in Germany?	<var> <tok> broader <tok> Cities in Germany <dot> <var> <tok> subject <tok> <var> <dot> <var> <tok> area total (m2) <tok> <var>	<var> <tok> area <tok> Germany <dot> <var> <tok> smallest city <tok> <var>
+Which beer brewing comapnies are located in North-Rhine Westphalia?	<var> <tok> subject <tok> Companies based in North Rhine-Westphalia <dot> <var> <tok> type <tok> brewery	<var> <tok> location city <tok> North-Rhine-Westphalia <dot> <var> <tok> type <tok> beer
+What is the largest city in america?	United States <tok> largest city <tok> <var>	<var> <tok> largest city <tok> <var>
+Who is the current federal minister of finance in Germany?	Federal Ministry of Finance (Germany) <tok> leader <tok> <var>	<var> <tok> government <tok> Germany <dot> <var> <tok> current minister <tok> <var>
+What is the highest mountain in the Bavarian Alps?	Bavarian Alps <tok> highest <tok> <var>	<var> <tok> mountain range <tok> Bavarian Alps <dot> <var> <tok> highest mountain <tok> <var>
+Who is 8th president of US?	8th President of the United States <tok> Wikipage redirect <tok> <var> <dot> <var> <tok> name <tok> <var>	<var> <tok> president <tok> United States
+Where is the most deep point in the ocean?	Extreme points of Earth <tok> subject <tok> <var> <dot> <var> <tok> subject <tok> <var> <dot> <var> <tok> comment <tok> <var>	<var> <tok> deepest point <tok> <var> <dot> <var> <tok> type <tok> ocean
+In which state Penn State University is located?	Pennsylvania State University <tok> state <tok> <var>	<var> <tok> state <tok> Penn State University <dot> <var> <tok> location state <tok> <var>
+Which species does an elephant belong?	Elephant <tok> species <tok> <var>	<var> <tok> species <tok> elephant
+What is Donald Trump's main business?	<var> <tok> owner <tok> Donald Trump	<var> <tok> main business <tok> Donald Trump
+What is the last work of Dan Brown?	<var> <tok> author <tok> Dan Brown <dot> <var> <tok> http://dbpedia.org/property/releaseDate http://dbpedia.org/ontology/publicationDate <tok> <var>	Dan Brown <tok> last work <tok> <var>
+What other books have been written by the author of The Fault in Our Stars?	<var> <tok> author <tok> John Green (author)	The Fault in Our Stars <tok> author <tok> <var> <dot> <var> <tok> other books <tok> <var>
+When was the last episode of the TV series Friends aired?	Friends <tok> completion date <tok> <var>	<var> <tok> last episode <tok> Friends <dot> <var> <tok> type <tok> television show

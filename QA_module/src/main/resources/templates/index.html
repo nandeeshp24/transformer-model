@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Generate Training Data</title>
+    <style>
+        .box {
+            width: 500px;
+            height: 200px;
+            margin: 0 auto;
+            border: 1px solid black;
+            padding: 20px;
+        }
+
+        .box button {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+<div class="box">
+    <form action="/create-training-data" method="post" enctype="multipart/form-data">
+        File: <input name="file" type="file"/>
+        <br/>
+        <br/>
+        Host: <select name="host">
+        <option value="dbpedia" selected>DBpedia</option>
+        <option value="wikidata">Wikidata</option>
+    </select>
+        <br/>
+        <button type="submit">Generate</button>
+    </form>
+</div>
+</body>
+</html>
